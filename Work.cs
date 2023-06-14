@@ -11,7 +11,8 @@ namespace DemoGit
         public string sayHello()
         {
             Console.WriteLine("Welcome");
-     
+            Console.WriteLine("Data 1");
+            Console.WriteLine("Data 2");
             return "Hello";
         }
     }
