@@ -1,0 +1,1 @@
+Use PMD and EMMa for code quality
