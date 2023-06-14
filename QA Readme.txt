@@ -1,1 +1,1 @@
-Use PMD and EMMa for code quality
+Use PMD and EMMa for code quality purpose
